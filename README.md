@@ -1,1 +1,3 @@
 # jumper
+
+a game of a jumper with a parachute that gets depleted if the player keeps giving the wrong guess. it is made up of four classes with a main method to run the game. there are loops to check if the guess is correct and a while loops to make sure the game keeps running while the guesses made are still correct. if player keeps guessing wrong the parachute will be removed by each element of the list it is created on so the list might be the number of guesses if the are all wrong the jumper falls
